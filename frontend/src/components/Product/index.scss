@@ -1,0 +1,55 @@
+.list-none{
+    position: absolute;
+    margin-left: 20%;
+    margin-top: 6%;
+    .product-card_img-container{
+        position: relative;
+        
+    }
+    
+    .product-details{
+        position: relative;
+        font-size: 15px;
+        max-width: 325px;
+        left: 15px;
+    }
+    
+    .button{
+        position: relative;
+        margin-left: 0%;
+        margin-top: 30%;
+        color: aqua;
+    }
+}
+
+
+
+.no-product-render{
+    h1{
+        position: absolute;
+        margin-left: 10%;
+        margin-top: 10%;
+        text-align: center;
+    }
+}
+
+.form-container{
+
+.input-form{
+    position: absolute;
+    margin-top: 15%;
+    margin-left: 80%;
+
+    .searchbar-input{
+        position: absolute;
+        margin-top: 0%;
+        margin-left: 0%;
+    }
+
+    .searchbar-btn{
+        position: absolute;
+        margin-top: 8%;
+        margin-left: 4%;
+    }
+}
+}

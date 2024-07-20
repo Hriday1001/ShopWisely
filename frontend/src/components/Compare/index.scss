@@ -1,0 +1,36 @@
+.heading{
+    h2{
+        position: absolute;
+    margin-top: 2%;
+    margin-left: 25%;
+    font-size: 30px;
+    }
+}
+
+.form-container-1{
+    position: absolute;
+    margin-top: 10%;
+    margin-left: 25%;
+
+    .searchbar-btn{
+        position: absolute;
+        margin-top: 20%;
+        margin-left: 150%;
+    }
+}
+
+.form-container-2{
+    position: absolute;
+    margin-top: 10%;
+    margin-left: 60%;
+
+    .searchbar-btn{
+        display: none;
+    }
+}
+
+.table-component{
+    position: absolute;
+    margin-top: 5%;
+    margin-left: 20%;
+}
